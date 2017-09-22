@@ -1,0 +1,28 @@
+PODS:
+  - FLEX (2.4.0)
+  - IQKeyboardManagerSwift (4.0.10)
+  - mailcore2-ios (0.6.4)
+  - RxCocoa (3.5.0):
+    - RxSwift (~> 3.4)
+  - RxSwift (3.5.0)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - FLEX (~> 2.4.0)
+  - IQKeyboardManagerSwift (~> 4.0.10)
+  - mailcore2-ios
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+  - SnapKit (~> 3.2.0)
+
+SPEC CHECKSUMS:
+  FLEX: bd1a39e55b56bb413b6f1b34b3c10a0dc44ef079
+  IQKeyboardManagerSwift: 75ba21a23794a1e6b6fe6d9a267ea17f80e06771
+  mailcore2-ios: 3ff0be2fa553d4da9c11d39c11d51863c768f24f
+  RxCocoa: a0a09f45d0e5b48ecb6a4a7b4b4c89c88d3f633f
+  RxSwift: 18ee9d78b45edb3b0b7e79916b47a116e6dbc842
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 0cefd1d5ee39337234b595fd5b91934f5f7964dd
+
+COCOAPODS: 1.0.1
